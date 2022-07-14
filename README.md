@@ -1,7 +1,4 @@
-# PyQt5-SqLite-Crud-Project
+Tugas Proyek CRUD (Create Read Update dan Delete) dengan SQLite dan PyQt5
 
-For the visual programming course, it was connected to the database with SQLite using the PyQT5 user interface and CRUD operations were performed.
-
-![image](https://user-images.githubusercontent.com/5441882/94076479-df211400-fe05-11ea-82a8-8ef79ddcb9e9.png) 
-
-![image](https://user-images.githubusercontent.com/5441882/94076101-12af6e80-fe05-11ea-9cb7-05a1361d89ce.png) 
+![Screenshot (784)](https://user-images.githubusercontent.com/109277513/178961180-5013c378-9f33-4926-85fe-8789bd3be186.png)
+![Screenshot (783)](https://user-images.githubusercontent.com/109277513/178961201-21f710bc-9b97-4777-b665-37f3945aba40.png)
